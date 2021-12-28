@@ -1,0 +1,14 @@
+{
+  "name": "my_name",
+  "version": "1.0.0",
+  "description": "assignment day 27_2 Firlian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Firlian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
